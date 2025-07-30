@@ -1,0 +1,19 @@
+title: "NEET-PG Immersion Kit 2025"
+description: "Microbiology + OBGYN Pattern-Driven Preparation for NEET-PG"
+baseurl: ""  # Keep this empty if your site is user.github.io/repo
+theme: minima
+
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Optional: for better page titles
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      author: "Gowda RG"
