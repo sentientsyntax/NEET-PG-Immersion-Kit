@@ -1,133 +1,90 @@
-
 # 🎯 NEET-PG Immersion Kit (Microbiology + OBGYN Focus)
 
-This repository is a **high-intensity, pattern-driven revision kit** for NEET-PG aspirants, especially designed for a focused and deep attempt on **Microbiology** and **Obstetrics & Gynecology**.
+This repository is a **high-intensity, pattern-driven revision kit** for NEET-PG aspirants, designed for a focused and deep attempt on **Microbiology** and **Obstetrics & Gynecology**.
 
-Built with a custom learning architecture—combining **pattern recognition**, **story-based conceptualization**, **semantic dissection**, and **multi-level MCQ integration**—this kit aims to provide maximum conceptual penetration in the shortest possible time.
+Built with a custom learning architecture—combining **pattern recognition**, **story-based conceptualization**, **topic prediction**, and **multi-level MCQ integration**—this kit provides maximum conceptual clarity in the shortest possible time.
 
-> This project was initiated to support a personal NEET-PG attempt and is shared here to help others attempting similar focused preparation.
+> Originally created for a personal NEET-PG 2025 preparation sprint. Now open-sourced to help other focused learners.
 
 ---
 
 ## 📦 What's Inside?
 
-### 🔹 Pattern Recognition & NEET-PG Strategy
-- Subject-wise decoding of NEET-PG question-setting patterns
-- Analysis of probable themes for the 2025 exam
+### 🔹 `01-pattern-recognition/` — NEET-PG Framing Strategy  
+- Subject-wise decoding of NEET-PG question patterns  
+- Pattern spotting and paper-setting logic
 
-### 🔹 Story-Based Learning (Neuro-Semantic Approach)
-- Designed for concept retention and deep understanding
-- Especially helpful for non-verbal or pattern-sensitive learners
+### 🔹 `02-learning-methods/` — Story-Based Learning & Semantic Anchors  
+- Visual and narrative-first approaches  
+- Great for non-linear and memory-based topics
 
-### 🔹 Probable Topic Grids
-- Top 30+ high-yield topics for Microbiology and OBGYN (2025 targeting)
+### 🔹 `03-topic-grids/` — 2025 Probable High-Yield Topics  
+- Logical prediction of 30+ key themes for Microbiology & OBGYN  
+- Ideal for targeting revision during the final months
 
-### 🔹 Integrated Multi-Level MCQs
-- **Level 1:** Core facts & clinical links  
-- **Level 2:** Reasoned clinical applications  
-- **Level 3:** Full-case integrations & cross-subject pattern spotting  
-- Each set comes with detailed explanations (in separate files)
+### 🔹 `04-integrated-mcqs/` — Multi-Level Question Practice  
+- **Level 1:** Recall-based & clinical concept MCQs  
+- **Level 2:** Reasoning-driven application  
+- **Level 3:** Full case integration + cross-topic linkage  
+- Accompanied by answer explanations
 
-### 🔹 Metacognition Toolkit
-- Tools to discern known vs. unknown content  
-- Decision trees for cautious MCQ attempts  
-- Templates to classify and reflect on question patterns
+### 🔹 `05-metacognitive-guides/` — Self-Awareness Tools for MCQs  
+- Decision trees for cautious answering  
+- Templates to classify question types (Known, Dormant, Unknown)  
+- MCQ tracking and feedback systems
 
 ---
 
 ## 🚀 How to Use This Kit
 
 1. **Start with `01-pattern-recognition/`**  
-   Understand how NEET designs questions in Micro and OBGYN.
+   Understand NEET-PG's paper-setting logic and typical traps.
 
-2. **Explore story-based conceptual entries** in `02-story-based-learning/`  
-   These will help anchor knowledge deeper than rote memorization.
+2. **Explore `02-learning-methods/`**  
+   Use story-based and visual methods to retain complex concepts.
 
-3. **Scan through the `03-probable-topic-grids/`**  
-   Identify what you’ve covered vs. what’s left.
+3. **Scan `03-topic-grids/`**  
+   Target the most probable and previously repeated themes.
 
-4. **Test your prep in `04-integrated-mcqs/` (Levels 1–3)**  
-   Attempt each level progressively, tracking confidence levels.
+4. **Practice progressively in `04-integrated-mcqs/`**  
+   Move from core recall to advanced integration.
 
-5. **Verify your answers in `05-answer-explanations/`**  
-   Each explanation includes concept tags and links to topics.
-
-6. **Use the tools in `06-metacognitive-tools/`**  
-   Apply question classification and self-awareness tools to analyze your attempts.
+5. **Track your reasoning in `05-metacognitive-guides/`**  
+   Classify your MCQ responses, identify blind spots, and improve feedback loops.
 
 ---
 
 ## ⚖️ License
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+This project is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-You may:
-- Share and adapt the material for **non-commercial use**
-- Credit the source by linking back to this repository
-- Not redistribute or sell the content for commercial purposes
+You may:  
+✅ Share and adapt for **non-commercial purposes**  
+✅ Credit the original source (this repo)  
+🚫 Not redistribute or sell the content for commercial gain
 
 ---
 
 ## 🧠 Final Notes
 
-This kit is designed to **amplify focus**, not cover all 19 subjects at once. If you're attempting NEET-PG with limited time and want to master just 1–2 subjects with intensity, this method is for you.
+This kit is **not a full-subject syllabus**. It's for **deep-diving into 1–2 subjects** (Micro & OBGYN) when time is limited and focus is essential.
 
-If you found this useful, consider leaving feedback or suggesting improvements via issues or pull requests!
+Use it as part of a 3–7 day immersion sprint, or as a **targeted revision capsule** alongside your broader prep.
+
+If you find this kit useful, feel free to contribute, open an issue, or suggest improvements.
 
 ---
 
-Built with ❤️ and purpose. Good luck!
+Built with clarity, care, and cognitive science.  
+**Wishing you calm, focus, and total recall on exam day.**
 
+---
 
+## 📬 Contact
 
+- ✉️ Email: [sentientsyntax01@gmail.com](mailto:sentientsyntax01@gmail.com)  
+- 🧠 Essays & updates: [Substack](https://sentientsyntax.substack.com)
 
+---
 
-
-
-
-
-
-
-
-
-
-
-/NEET-PG-Immersion-Kit/
-│
-├── _config.yml                 # Jekyll config file
-├── index.md                    # Home page for GitHub Pages site
-├── README.md                   # Repository info (for GitHub, not website)
-├── LICENSE                     # License file
-│
-├── _includes/                  # (optional) reusable HTML components
-├── _layouts/                   # (optional) Jekyll page templates
-│
-├── assets/
-│   ├── images/
-│   └── styles.css              # Custom styles (optional)
-│
-├── 01-pattern-recognition/
-│   ├── NEET_PG_Pattern_Overview.md
-│   ├── Subject_Wise_Decoding.md
-│
-├── 02-story-based-learning/
-│   ├── Microbiology_Stories.md
-│   ├── OBGYN_Stories.md
-│
-├── 03-probable-topic-grids/
-│   ├── Microbiology_2025_Topics.md
-│   ├── OBGYN_2025_Topics.md
-│
-├── 04-integrated-mcqs/
-│   ├── Level_1_MCQs.md
-│   ├── Level_2_MCQs.md
-│   ├── Level_3_MCQs.md
-│
-├── 05-answer-explanations/
-│   ├── Level_1_Answers.md
-│   ├── Level_2_Answers.md
-│   ├── Level_3_Answers.md
-│
-└── 06-metacognitive-tools/
-    ├── Question_Classifier_Template.md
-    └── Discerning_Known_Unknown.md
+© 2025 Gowda R.G. — CC BY-NC 4.0
