@@ -2,7 +2,7 @@
 layout: default
 title: Pre-Exam
 nav_order: 3
-parent: Metacognitive Toolkit Overview
+parent: 🧠 NEET-PG Dashboard
 ---
 
 ## 🧠 **Pre-Exam Priming Protocol**

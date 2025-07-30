@@ -2,7 +2,7 @@
 layout: default
 title: README
 nav_order: 2
-parent: NEET-PG Pattern
+parent: 🧠 NEET-PG Dashboard
 ---
 
 # 🎯 Welcome to Pattern Recognition Mode: NEET-PG 2025

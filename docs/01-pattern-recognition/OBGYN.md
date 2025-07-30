@@ -2,7 +2,7 @@
 layout: default
 title: OBGYN 
 nav_order: 3
-parent: NEET-PG Pattern
+parent: 🧠 NEET-PG Dashboard
 ---
 
 # 🚀 Overview: OBGYN 

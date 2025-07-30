@@ -2,7 +2,7 @@
 layout: default
 title: MCQ Tracker
 nav_order: 2
-parent: Metacognitive Toolkit Overview
+parent: 🧠 NEET-PG Dashboard
 ---
 
 # 🧠 Metacognitive Toolkit for Microbiology + OBGYN MCQs

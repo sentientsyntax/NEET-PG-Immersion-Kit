@@ -2,7 +2,7 @@
 layout: default
 title: ANSWERS
 nav_order: 2
-parent: Integrated MCQs Overview
+parent: 🧠 NEET-PG Dashboard
 ---
 
 # 🎯 Level 1 Integrated MCQ Set: Microbiology + OBGYN

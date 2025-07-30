@@ -2,7 +2,7 @@
 layout: default
 title: MICROBIOLOGY GRID
 nav_order: 1
-parent: Topic Grids Overview
+parent: 🧠 NEET-PG Dashboard
 ---
 
 

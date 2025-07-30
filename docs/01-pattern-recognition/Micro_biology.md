@@ -2,7 +2,7 @@
 layout: default
 title: Microbiology 
 nav_order: 1
-parent: NEET-PG Pattern
+parent: 🧠 NEET-PG Dashboard
 ---
 
 

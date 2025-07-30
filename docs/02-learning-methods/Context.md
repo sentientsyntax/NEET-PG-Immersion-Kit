@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: default
 title:  Contextual Anchoring
 nav_order: 1
-parent: Learning Methods
---- -->
+parent: 🧠 NEET-PG Dashboard
+---
 
 # 🧠 How to Use Topic Module — Immersive Medical Learning Cycle
 

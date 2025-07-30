@@ -2,7 +2,7 @@
 layout: default
 title: OBGYN GRID
 nav_order: 2
-parent: Topic Grids Overview
+parent: 🧠 NEET-PG Dashboard
 ---
 
 

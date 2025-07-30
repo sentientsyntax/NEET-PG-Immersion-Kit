@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: default
 title: Hyper-sensitivity
 nav_order: 2
-parent: Learning Methods
---- -->
+parent: 🧠 NEET-PG Dashboard
+---
 
 # 🧠 Topic: Hypersensitivity
 

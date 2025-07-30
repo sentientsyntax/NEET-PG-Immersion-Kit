@@ -2,7 +2,7 @@
 layout: default
 title: EXAMPLE
 nav_order: 1
-parent: Metacognitive Toolkit Overview
+parent: 🧠 NEET-PG Dashboard
 ---
 
 ## 📌 **NOTE TO STUDENTS (Case Study Context)**
