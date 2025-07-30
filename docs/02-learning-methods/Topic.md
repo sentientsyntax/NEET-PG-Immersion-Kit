@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: default
-title: Hypersensitivity
+title: Hyper-sensitivity
 nav_order: 2
 parent: Learning Methods
----
+--- -->
 
 # 🧠 Topic: Hypersensitivity
 
