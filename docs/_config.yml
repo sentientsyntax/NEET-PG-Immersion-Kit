@@ -1,9 +1,4 @@
-title: ""
-description: "© 2025 Gowda R.G. · sentientsyntax01@gmail.com"
-theme: minima
-markdown: kramdown
-permalink: pretty
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
+title: NEET-PG Immersion Kit
+theme: just-the-docs
+url: https://sentientsyntax.github.io/NEET-PG-Immersion-Kit/
+baseurl: "/NEET-PG-Immersion-Kit"
