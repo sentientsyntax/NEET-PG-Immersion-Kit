@@ -1,4 +1,10 @@
 title: NEET-PG Immersion Kit
-theme: just-the-docs
-url: https://sentientsyntax.github.io/NEET-PG-Immersion-Kit/
-baseurl: "/NEET-PG-Immersion-Kit"
+description: Microbiology + OBGYN Pattern-Decoded Revision Kit
+baseurl: "/NEET-PG-Immersion-Kit" 
+url: "https://sentientsyntax.github.io"
+
+remote_theme: just-the-docs/just-the-docs
+
+# Optional: Enable navigation features
+search_enabled: true
+color_scheme: light
