@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Home
+title: 🧠 NEET-PG Dashboard
+nav_order: 0
+has_children: true
 ---
 
 # 🧠 NEET-PG Immersion Kit 2025 — Microbiology + OBGYN Master Plan

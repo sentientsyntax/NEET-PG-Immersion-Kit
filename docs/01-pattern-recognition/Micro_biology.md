@@ -1,9 +1,3 @@
----
-layout: default
-title: Microbiology — NEET-PG Pattern
-nav_order: 1
----
-
 # 🚀 Overview: Microbiology 
 
 > 🎯 **Purpose of this file:** This isn’t just a content dump. It’s a strategic walk-through. You’ll **decode patterns**, then **practice with the examiner's mind**, and finally **simulate NEET conditions** using visual anchors, cross-linking, and reflective feedback.

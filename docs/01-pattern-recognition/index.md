@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pattern Recognition Overview
+title: NEET-PG Pattern
 nav_order: 1
 ---
 
