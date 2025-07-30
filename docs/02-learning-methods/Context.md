@@ -1,3 +1,10 @@
+---
+layout: default
+title: ""
+nav_order: 1
+parent: Learning Methods
+---
+
 # 🧠 How to Use Topic Module — Immersive Medical Learning Cycle
 
 Each topic can be  structured to support **two types of learners**:

@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: ""
+nav_order: 2
+parent: NEET-PG Pattern
+---
 
 # 🎯 Welcome to Pattern Recognition Mode: NEET-PG 2025
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: ""
+nav_order: 2
+parent: Topic Grids Overview
+---
 
 ## 🎯 Probable Topic Grid: High-Yield Topics + Examiner Focus
 

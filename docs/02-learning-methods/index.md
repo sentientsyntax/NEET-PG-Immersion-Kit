@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning Methods Overview
+title: Learning Methods 
 nav_order: 2
 ---
 

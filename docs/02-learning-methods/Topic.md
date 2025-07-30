@@ -1,3 +1,10 @@
+---
+layout: default
+title: ""
+nav_order: 2
+parent: Learning Methods
+---
+
 # 🧠 Topic: Hypersensitivity
 
 This topic is a **live implementation** of the full 5-phase immersive learning cycle we designed — from **story-first priming**, to **pattern recognition**, to **MCQ decoding**, to **metacognitive self-check**.

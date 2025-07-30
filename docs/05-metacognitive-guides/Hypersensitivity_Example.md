@@ -1,3 +1,9 @@
+---
+layout: default
+title: ""
+nav_order: 1
+parent: Metacognitive Toolkit Overview
+---
 
 ## 📌 **NOTE TO STUDENTS (Case Study Context)**
 

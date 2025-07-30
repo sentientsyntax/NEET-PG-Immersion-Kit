@@ -1,3 +1,9 @@
+---
+layout: default
+title: ""
+nav_order: 3
+parent: Metacognitive Toolkit Overview
+---
 
 ## 🧠 **Pre-Exam Priming Protocol**
 
