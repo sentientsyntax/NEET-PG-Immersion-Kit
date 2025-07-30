@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ""
+title: MCQs
 nav_order: 1
 parent: Integrated MCQs Overview
 ---

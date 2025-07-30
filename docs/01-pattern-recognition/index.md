@@ -2,6 +2,7 @@
 layout: default
 title: NEET-PG Pattern
 nav_order: 1
+has_children: true
 ---
 
 # Welcome to Pattern Recognition Mode

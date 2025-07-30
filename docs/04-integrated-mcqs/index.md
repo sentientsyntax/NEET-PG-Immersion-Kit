@@ -2,6 +2,7 @@
 layout: default
 title: Integrated MCQs Overview
 nav_order: 4
+has_children: true
 ---
 
 # 📝 Integrated MCQs (Levels 1–3)

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ""
+title: EXAMPLE
 nav_order: 1
 parent: Metacognitive Toolkit Overview
 ---

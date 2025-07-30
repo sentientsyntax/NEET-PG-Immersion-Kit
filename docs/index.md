@@ -20,6 +20,7 @@ Explore each section below based on your revision phase — from pattern underst
 ---
 
 ### 📌 [1. NEET-PG Pattern Recognition & Decoding](/NEET-PG-Immersion-Kit/docs/01-pattern-recognition/)
+
 🧠 Decode how NEET frames questions  
 🔹 Subject-wise paper-setting styles  
 🔹 Cross-topic pattern awareness
@@ -79,6 +80,7 @@ Use the [GitHub Issues](https://github.com/sentientsyntax/NEET-PG-Immersion-Kit/
 
 > Wishing you complete focus, clarity, and calm in your NEET-PG journey. May you honor your attempt with full attention.
 
+
 ---
 
 ## 📬 Contact
@@ -88,4 +90,4 @@ Use the [GitHub Issues](https://github.com/sentientsyntax/NEET-PG-Immersion-Kit/
 
 ---
 
-© 2025 Gowda R.G. — CC BY-NC 4.0
+© 2025 Gowda R.G. — Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)

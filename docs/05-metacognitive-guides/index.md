@@ -2,6 +2,7 @@
 layout: default
 title: Metacognitive Toolkit Overview
 nav_order: 5
+has_children: true
 ---
 
 # 🧭 Metacognitive Toolkit

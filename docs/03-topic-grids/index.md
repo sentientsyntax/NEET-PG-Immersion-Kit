@@ -2,6 +2,7 @@
 layout: default
 title: Topic Grids Overview
 nav_order: 3
+has_children: true
 ---
 
 # 🎯 Probable High-Yield Topic Grids (2025)

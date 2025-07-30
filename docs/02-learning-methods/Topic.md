@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ""
+title: Hypersensitivity
 nav_order: 2
 parent: Learning Methods
 ---

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: ""
+title: MICROBIOLOGY GRID
 nav_order: 1
 parent: Topic Grids Overview
 ---
-# 🧪 MICROBIOLOGY – NEET-PG 2025
 
-## 🎯 Probable Topic Grid: High-Yield Zones + Pattern Focus
+
+## 🎯 Probable MICROBIOLOGY Topic Grid: High-Yield Zones + Pattern Focus
 
 ---
 
